@@ -6,3 +6,4 @@ Check documentation
 Add comment
 Note: performance implications
 Idea: caching layer
+Potential optimization
