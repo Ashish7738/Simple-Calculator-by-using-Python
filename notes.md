@@ -8,3 +8,4 @@ Note: performance implications
 Idea: caching layer
 Potential optimization
 Potential optimization
+Idea: caching layer
