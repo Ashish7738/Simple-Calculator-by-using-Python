@@ -1,1 +1,2 @@
 Check documentation
+Add example
