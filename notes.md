@@ -12,3 +12,4 @@ Idea: caching layer
 Refactor candidate
 Check documentation
 Idea: caching layer
+Add example
